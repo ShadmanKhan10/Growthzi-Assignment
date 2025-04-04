@@ -1,6 +1,6 @@
 # ShopStop - Growthzi Assignment
 
-The app finds you movies based on your selection of genre.
+A simple e-commerce assignment
 
 ## Preview
 
