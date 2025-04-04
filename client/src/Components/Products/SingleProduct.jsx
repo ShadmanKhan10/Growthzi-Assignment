@@ -23,6 +23,7 @@ export default function SingleProduct() {
     };
     fetchProduct();
   }, [id]);
+
   if (!product) {
     return <p>Loading...</p>;
   }
@@ -39,6 +40,7 @@ export default function SingleProduct() {
           className="single-product-image"
         />
       </div>
+
       <div className="single-product-info-container">
         <p
           className="single-product-title"
