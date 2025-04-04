@@ -20,7 +20,7 @@ Follow the steps below to clone, install dependencies, and run the project local
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/ShadmanKhan10/Growthzi-Assignment
+git clone https://github.com/ShadmanKhan10/Growthzi-Assignment.git
 cd server
 npm install
 npm start
