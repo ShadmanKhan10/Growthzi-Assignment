@@ -6,11 +6,11 @@ The app finds you movies based on your selection of genre.
 
 Here are some preview images of the project:
 
-![Growthzi 1](src/assets/Images/landingPageLight.png)
-![Growthzi 2](src/assets/Images/landingPageDark.png)
-![Growthzi 3](src/assets/Images/productPage.png)
-![Growthzi 4](src/assets/Images/specificProductPage.png)
-![Growthzi 5](src/assets/Images/paymentsPage.png)
+![Growthzi 1](./client/src/assets/Images/landingPageLight.png)
+![Growthzi 2](./client/src/assets/Images/landingPageDark.png)
+![Growthzi 3](./client/src/assets/Images/productPage.png)
+![Growthzi 4](./client/src/assets/Images/specificProductPage.png)
+![Growthzi 5](./client/src/assets/Images/paymentsPage.png)
 
 
 ## Getting Started
